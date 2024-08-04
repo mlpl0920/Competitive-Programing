@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/Leftover Recipes/cmake-build-debug/CMakeFiles/Leftover_Recipes.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Leftover Recipes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Leftover Recipes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

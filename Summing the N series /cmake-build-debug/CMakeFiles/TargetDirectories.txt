@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/Summing the N series /cmake-build-debug/CMakeFiles/Summing_the_N_series_.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Summing the N series /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Summing the N series /cmake-build-debug/CMakeFiles/rebuild_cache.dir

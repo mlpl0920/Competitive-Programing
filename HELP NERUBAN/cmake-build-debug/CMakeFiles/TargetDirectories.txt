@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/HELP NERUBAN/cmake-build-debug/CMakeFiles/HELP_NERUBAN.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/HELP NERUBAN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/HELP NERUBAN/cmake-build-debug/CMakeFiles/rebuild_cache.dir

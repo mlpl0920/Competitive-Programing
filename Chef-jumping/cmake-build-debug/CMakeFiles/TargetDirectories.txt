@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/Chef-jumping/cmake-build-debug/CMakeFiles/Chef_jumping.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Chef-jumping/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Chef-jumping/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/Wrong Answer/cmake-build-debug/CMakeFiles/Wrong_Answer.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Wrong Answer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Wrong Answer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

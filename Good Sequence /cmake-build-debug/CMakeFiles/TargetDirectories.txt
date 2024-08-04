@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/Good Sequence /cmake-build-debug/CMakeFiles/Good_Sequence_.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Good Sequence /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Good Sequence /cmake-build-debug/CMakeFiles/rebuild_cache.dir

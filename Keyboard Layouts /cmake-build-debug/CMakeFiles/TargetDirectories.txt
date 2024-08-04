@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/Keyboard Layouts /cmake-build-debug/CMakeFiles/Keyboard_Layouts_.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Keyboard Layouts /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Keyboard Layouts /cmake-build-debug/CMakeFiles/rebuild_cache.dir

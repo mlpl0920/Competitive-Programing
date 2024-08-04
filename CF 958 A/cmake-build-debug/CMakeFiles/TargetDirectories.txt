@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/CF 958 A/cmake-build-debug/CMakeFiles/CF_958_A.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/CF 958 A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/CF 958 A/cmake-build-debug/CMakeFiles/rebuild_cache.dir

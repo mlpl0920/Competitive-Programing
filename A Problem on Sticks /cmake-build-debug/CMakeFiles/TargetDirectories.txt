@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/A Problem on Sticks /cmake-build-debug/CMakeFiles/A_Problem_on_Sticks_.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/A Problem on Sticks /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/A Problem on Sticks /cmake-build-debug/CMakeFiles/rebuild_cache.dir

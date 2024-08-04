@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/ABCDEF/cmake-build-debug/CMakeFiles/ABCDEF.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/ABCDEF/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/ABCDEF/cmake-build-debug/CMakeFiles/rebuild_cache.dir

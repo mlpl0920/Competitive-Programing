@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Desktop/Competitive-Programming/Polycarp Training /cmake-build-debug/CMakeFiles/Polycarp_Training_.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Polycarp Training /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Desktop/Competitive-Programming/Polycarp Training /cmake-build-debug/CMakeFiles/rebuild_cache.dir
